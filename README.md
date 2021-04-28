@@ -2,7 +2,7 @@
 
 Remake of the "Dinosaur Game" of the Chrome Browser in pygame.
 
-![game preview](README/preview.jpg)
+![game preview](README/Preview.jpg)
 
 ## Features
 * Totally original gameplay.
